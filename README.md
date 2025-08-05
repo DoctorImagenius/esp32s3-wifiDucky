@@ -1,6 +1,6 @@
 # 🧠 Imagenius WiFi Ducky — ESP32-S3 Rubber Ducky Over WiFi
 
-Part of the [**Imagenius Cube**](#what-is-imagenius-cube), this project turns an **ESP32-S3 board** into a **WiFi Rubber Ducky** — a remotely controlled HID (Human Interface Device) tool for automation, pen-testing, and ethical hacking purposes.
+Part of the [**Imagenius Cube**], this project turns an **ESP32-S3 board** into a **WiFi Rubber Ducky** — a remotely controlled HID (Human Interface Device) tool for automation, pen-testing, and ethical hacking purposes.
 
 > ⚠️ For educational and ethical hacking **only**. Do not use this on systems you do not own or have explicit permission to test.
 
